@@ -1,0 +1,380 @@
+{
+  "basics": {
+    "name": "Bok, Youngkyun",
+    "label": "Frontend Web Developer",
+    "image": "https://avatars.githubusercontent.com/u/968349?v=4",
+    "email": "cpbokgun@gmail.com",
+    "phone": "+82 1029987945",
+    "summary": "I'm a frontend developer with fullstack capabilities. When I develop, I pay attention to data structures and focus on productivity and teamwork. Recently, I'm very interested in blockchain and defi services. So I'm studying web3 and Solidity.",
+    "location": {
+      "address": "110-401, 69, Pangyodaejang-ro 7-gil, Bundang-gu",
+      "postalCode": "13544",
+      "city": "Seongnam-si",
+      "countryCode": "KR",
+      "region": "Gyeonggi-do"
+    },
+    "profiles": [{
+      "network": "facebook",
+      "username": "bokgun85",
+      "url": "https://www.facebook.com/bokgun85/"
+    }, {
+      "network": "github",
+      "username": "bokgun",
+      "url": "https://github.com/bokgun"
+    }]
+  },
+  "work": [{
+    "name": "RSQUARE",
+    "position": "co-founder, director",
+    "url": "https://rsquare.co.kr/",
+    "startDate": "2010-10-11",
+    "endDate": "2023-03-31",
+    "summary": "",
+    "highlights": [
+      "Web Development",
+      "Organizational Management",
+      "Project Management",
+      "Technical Advisor"
+    ]
+  }],
+  "education": [{
+    "institution": "Sahmyook University",
+    "url": "https://www.syu.ac.kr/",
+    "area": "Computer Software",
+    "studyType": "Bachelor",
+    "startDate": "2004-03-02",
+    "endDate": "2011-08-08",
+    "score": "3.74"
+  }],
+  "certificates": [{
+    "name": "Engineer Information Processing",
+    "date": "2010-12-10",
+    "issuer": "Human Resources Development Service of Korea",
+    "url": "https://www.q-net.or.kr/"
+  }],
+  "skills": [{
+    "name": "Frontend",
+    "level": "Senior",
+    "keywords": [
+      "HTML/JSX",
+      "CSS/Styled Component",
+      "javascript/typescript",
+      "React",
+      "Next.js",
+      "bootstrap",
+      "mui"
+    ]
+  }, {
+    "name": "backend",
+    "level": "experienced",
+    "keywords": [
+      "node.js",
+      "express",
+      "go"
+    ]
+  }, {
+    "name": "Devops",
+    "level": "experienced",
+    "keywords": ["AWS"]
+  }, {
+    "name": "web3",
+    "level": "junior",
+    "keywords": ["Solidity"]
+  }],
+  "languages": [{
+    "language": "Korean",
+    "fluency": "Native speaker"
+  }, {
+    "language": "English",
+    "fluency": "intermediate"
+  }],
+  "interests": [{
+    "name": "productivity",
+    "keywords": [
+      "efficient",
+      "product"
+    ]
+  }, {
+    "name": "teamwork",
+    "keywords": [
+      "collaboration",
+      "communication",
+      "friendly"
+    ]
+  }, {
+    "name": "blockchain",
+    "keywords": [
+      "bitcoin",
+      "ethereum",
+      "web3",
+      "dApp",
+      "defi",
+      "NFT"
+    ]
+  }, {
+    "name": "travel",
+    "keywords": [
+      "overseas travel",
+      "domestic travel"
+    ]
+  }, {
+    "name": "Whisky",
+    "keywords": [
+      "scotch",
+      "bourbon",
+      "single malt"
+    ]
+  }],
+  "projects": [{
+    "name": "RSQUARE ANALYTICS",
+    "description": "A service that effectively analyzes and visualizes commercial real estate data for companies.",
+    "startDate": "2022-01",
+    "endDate": "2023-03",
+    "keywords": [
+      "React",
+      "typescript",
+      "Next.js",
+      "Syncfusion - react component"
+    ],
+    "roles": [
+      "Frontend team leader"
+    ]
+  }, {
+    "name": "Daily convenience service admin web",
+    "description": "Web page for administrators of daily convenience services",
+    "startDate": "2022-01",
+    "endDate": "2022-06",
+    "keywords": [
+      "React",
+      "typescript",
+      "Next.js",
+      "Mui"
+    ],
+    "roles": [
+      "Frontend team leader"
+    ]
+  }, {
+    "name": "Daily convenience service staff mobile web",
+    "description": "Mobile web for staff of daily convenience services",
+    "startDate": "2022-01",
+    "endDate": "2022-06",
+    "keywords": [
+      "React",
+      "typescript",
+      "Next.js",
+      "Mui"
+    ],
+    "roles": [
+      "Frontend team leader"
+    ]
+  }, {
+    "name": "DOCUMENT GENERATOR",
+    "startDate": "2020-10",
+    "endDate": "2020-12",
+    "description": "Create PDF and datasheets files based on RSQUARE database",
+    "keywords": [
+      "node.js",
+      "typescript",
+      "puppeteer",
+      "express",
+      "Google maps API",
+      "AWS"
+    ],
+    "roles": [
+      "Head of Development Department",
+      "Project Manager",
+      "Frontend Developer"
+    ]
+  }, {
+    "name": "RSQUARE RTB",
+    "startDate": "2019-08",
+    "endDate": "2020-05",
+    "description": "Integrate different fragmented systems into one and implement a system with flexible scalability",
+    "keywords": [
+      "React",
+      "typescript",
+      "Google maps API",
+      "bootstrap",
+      "AWS"
+    ],
+    "highlights": [
+      "admin pages for all (WORKS + SALES + CRM + INTERIOR)",
+      "next generation",
+      "integration"
+    ],
+    "roles": [
+      "Head of Development Department",
+      "Project Manager",
+      "Frontend Developer"
+    ]
+  }, {
+    "name": "RSQUARE INTERIOR",
+    "startDate": "2018-01",
+    "endDate": "2018-11",
+    "description": "Internal service for interior design project management and furniture order management. It has functions for project schedule and customer management.",
+    "keywords": [
+      "React",
+      "typescript",
+      "bootstrap",
+      "AWS"
+    ],
+    "roles": [
+      "Head of Development Department",
+      "Project Manager",
+      "Frontend Developer"
+    ]
+  }, {
+    "name": "RSQUARE SEARCH",
+    "startDate": "2017-10",
+    "endDate": "2017-12",
+    "description": "Integrated search tool for RSQUARE staff. Easily search fragmented data",
+    "keywords": [
+      "React",
+      "typescript",
+      "bootstrap",
+      "AWS"
+    ],
+    "roles": [
+      "Head of Development Department",
+      "Project Manager",
+      "Frontend Developer"
+    ]
+  }, {
+    "name": "RSQUARE NEXT SALES",
+    "startDate": "2017-03",
+    "endDate": "2017-09",
+    "description": "RSQUARE SALES renewal and integration with CRM, Changed based on react and typescript",
+    "keywords": [
+      "React",
+      "typescript",
+      "Google maps API",
+      "bootstrap",
+      "AWS"
+    ],
+    "roles": [
+      "Frontend Team Leader",
+      "Frontend Developer"
+    ]
+  },{
+    "name": "RSQUARE WORKS II",
+    "startDate": "2016-11",
+    "endDate": "2017-02",
+    "description": "RSQUARE WORKS renewal and function enhancement, Changed based on react and typescript",
+    "roles": [
+      "Frontend Team Leader",
+      "Frontend Developer"
+    ],
+    "keywords": [
+      "React",
+      "typescript",
+      "Google maps API",
+      "bootstrap",
+      "AWS"
+    ]
+  }, {
+    "name": "PDF GENERATOR",
+    "startDate": "2016-08",
+    "endDate": "2016-10",
+    "description": "Create PDF files based on RSQUARE database",
+    "keywords": [
+      "node.js",
+      "typescript",
+      "phantomJS",
+      "express",
+      "Google maps API",
+      "AWS"
+    ],
+    "roles": [
+      "Fullstack Developer"
+    ]
+  }, {
+    "name": "RSQUARE CRM",
+    "startDate": "2015-10",
+    "endDate": "2016-04",
+    "description": "It was created with React as a tool to continuously manage tenants.",
+    "keywords": [
+      "AngularJS",
+      "bootstrap",
+      "AWS"
+    ],
+    "roles": [
+      "Frontend Team Leader",
+      "Frontend Developer"
+    ]
+  }, {
+    "name": "RSQUARE WORKS",
+    "startDate": "2015-01",
+    "endDate": "2015-06",
+    "description": "RSQUARE admin renewal and function enhancement, product name change",
+    "roles": [
+      "Frontend Team Leader",
+      "Frontend Developer"
+    ],
+    "keywords": [
+      "AngularJS",
+      "Google maps API",
+      "bootstrap",
+      "AWS"
+    ]
+  }, {
+    "name": "RSQUARE SALES",
+    "startDate": "2014-08",
+    "endDate": "2014-12",
+    "description": "It integrates and centralizes all data to manage landlords, tenants, and deals.",
+    "keywords": [
+      "AngularJS",
+      "Google maps API",
+      "bootstrap",
+      "AWS"
+    ],
+    "roles": [
+      "Frontend Team Leader",
+      "Frontend Developer"
+    ]
+  }, {
+    "name": "RSQUARE ADMIN(renewal)",
+    "startDate": "2014-04",
+    "endDate": "2013-07",
+    "description": "Convert Ruby on Rails project to AngularJS",
+    "roles": [
+      "Frontend Team Leader",
+      "Frontend Developer"
+    ],
+    "keywords": [
+      "AngularJS",
+      "Google maps API",
+      "bootstrap",
+      "AWS"
+    ]
+  }, {
+    "name": "RSQURE(beta)",
+    "startDate": "2013-09",
+    "endDate": "2014-03",
+    "description": "A page for tenants, a website optimized for map-based property navigation.",
+    "keywords": [
+      "Ruby on Rails",
+      "jQuery",
+      "Google maps",
+      "bootstrap",
+      "AWS"
+    ],
+    "roles": [
+      "Fullstack Developer"
+    ]
+  }, {
+    "name": "RSQUARE ADMIN",
+    "startDate": "2013-03",
+    "endDate": "2013-07",
+    "description": "A system that centralizes information assets by using a tool to input, modify, and search general data, contact information, and manager information of a building.",
+    "roles": [
+      "Fullstack Developer"
+    ],
+    "keywords": [
+      "Ruby on Rails",
+      "bootstrap",
+      "jQuery",
+      "mysql",
+      "AWS"
+    ]
+  }]
+}

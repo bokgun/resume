@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "export": "resumed render resume.json -o resume.html -t jsonresume-theme-even",
+    "validate": "resumed validate resume.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-even": "^0.22.0",
+    "jsonresume-theme-jacrys": "^1.0.4",
+    "jsonresume-theme-latte": "^1.0.2",
+    "jsonresume-theme-orbit": "^2.0.0",
+    "resumed": "^3.0.1"
+  }
+}
